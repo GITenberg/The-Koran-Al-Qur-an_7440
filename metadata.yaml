@@ -1,0 +1,25 @@
+_repo: The-Koran-Al-Qur-an_7440
+contributor:
+  translator:
+    agent_name: Sale, George
+    deathdate: 1736
+    gutenberg_agent_id: '2472'
+    url: http://www.gutenberg.org/2009/agents/2472
+    wikipedia: http://en.wikipedia.org/wiki/George_Sale
+description: See also PG#2800 and PG#3434 tr. by J.M. Rodwell
+gutenberg_bookshelf:
+- Harvard Classics
+- Islam
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Qur''an'
+- !lcc 'BP'
+title: The Koran (Al-Qur'an)
+url: http://www.gutenberg.org/ebooks/7440
